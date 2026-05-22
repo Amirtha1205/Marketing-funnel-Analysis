@@ -25,6 +25,7 @@ The project helps businesses improve customer conversion rates and make data-dri
 
 Dataset used:
 E-Commerce Behavior Dataset from Kaggle
+Dataset link:https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?
 
 The dataset contains:
 
@@ -119,7 +120,8 @@ Created an interactive dashboard containing:
 
 ## 📊 Dashboard Preview
 
-(Add your Tableau dashboard screenshot here)
+<img width="1254" height="856" alt="Screenshot 2026-05-22 170958" src="https://github.com/user-attachments/assets/615a3c8e-51b0-49ce-b9c4-fcae524e782e" />
+
 
 ---
 
