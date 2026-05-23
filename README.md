@@ -115,7 +115,8 @@ Created an interactive dashboard containing:
 
 ## 📊 Dashboard Preview
 
-<img width="1422" height="966" alt="Screenshot 2026-05-23 125258" src="https://github.com/user-attachments/assets/e152b277-5020-4165-bc2e-bb72a15e0905" />
+<img width="1000" height="800" alt="dashboard img" src="https://github.com/user-attachments/assets/138330c3-4559-46b0-ac5a-f6f35bbf1b12" />
+
 
 
 
