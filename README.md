@@ -120,7 +120,8 @@ Created an interactive dashboard containing:
 
 ## 📊 Dashboard Preview
 
-<img width="1254" height="856" alt="Screenshot 2026-05-22 170958" src="https://github.com/user-attachments/assets/615a3c8e-51b0-49ce-b9c4-fcae524e782e" />
+<img width="1422" height="966" alt="Screenshot 2026-05-23 125258" src="https://github.com/user-attachments/assets/e152b277-5020-4165-bc2e-bb72a15e0905" />
+
 
 
 ---
