@@ -7,7 +7,6 @@ The main objective of this project is to understand the customer journey in the 
 
 The project helps businesses improve customer conversion rates and make data-driven decisions.
 
----
 
 ## 🚀 Technologies Used
 
@@ -19,7 +18,6 @@ The project helps businesses improve customer conversion rates and make data-dri
 * Tableau
 * Jupyter Notebook
 
----
 
 ## 📂 Dataset
 
@@ -45,7 +43,6 @@ Event types include:
 * Cart
 * Purchase
 
----
 
 ## 📊 Steps Performed
 
@@ -97,7 +94,6 @@ Created an interactive dashboard containing:
 * Funnel Comparison Charts
 * Pie Chart Visualization
 
----
 
 ## 📈 Key Insights
 
@@ -107,7 +103,6 @@ Created an interactive dashboard containing:
 * Customer drop-off was high between the view and purchase stages.
 * Average product price was around 291.
 
----
 
 ## 🏢 Business Recommendations
 
@@ -117,7 +112,6 @@ Created an interactive dashboard containing:
 * Retarget users who added products to the cart but did not purchase.
 * Monitor customer behavior regularly using dashboards.
 
----
 
 ## 📊 Dashboard Preview
 
@@ -125,14 +119,12 @@ Created an interactive dashboard containing:
 
 
 
----
 
 ## 🎯 Conclusion
 
 This project demonstrates how Data Analytics helps businesses understand customer behavior in the marketing funnel using Python and Tableau.
 The analysis provides meaningful insights that can improve customer engagement, sales performance, and business strategies.
 
----
 
 ## 👩‍💻 Author
 
