@@ -25,6 +25,7 @@ The project helps businesses improve customer conversion rates and make data-dri
 
 Dataset used:
 E-Commerce Behavior Dataset from Kaggle
+
 Dataset link:https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?
 
 The dataset contains:
